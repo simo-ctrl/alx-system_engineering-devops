@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 2 root root 4096 Apr  2 14:51 .
+drwxr-xr-x 6 root root  122 Apr  2 14:34 ..
+-rwxr--r-- 1 root root   32 Apr  2 14:35 0-hello_world
+-rwxr--r-- 1 root root   48 Apr  2 14:46 10-no_more_js
+-rwxr--r-- 1 root root   50 Apr  2 14:46 11-directories
+-rwxr--r-- 1 root root   32 Apr  2 14:46 12-newest_files
+-rwxr--r-- 1 root root   27 Apr  2 14:47 13-unique
+-rwxr--r-- 1 root root   39 Apr  2 14:47 14-findthatword
+-rwxr--r-- 1 root root   28 Apr  2 14:35 1-confused_smileyx
+-rwxr--r-- 1 root root   28 Apr  2 14:36 2-hellofile
+-rwxr--r-- 1 root root   39 Apr  2 14:39 3-twofiles
+-rwxr--r-- 1 root root   35 Apr  2 14:39 4-lastlines
+-rwxr--r-- 1 root root   35 Apr  2 14:40 5-firstlines
+-rwxr--r-- 1 root root   40 Apr  2 14:40 6-third_line
+-rwxr--r-- 1 root root   99 Apr  2 14:45 7-file
+-rwxr--r-- 1 root root   37 Apr  2 14:45 8-cwd_state
+-rwxr--r-- 1 root root   37 Apr  2 14:45 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Apr  2 14:49 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 1739 Apr  2 14:51 iacta
+-rw-r--r-- 1 root root    0 Apr  2 14:51 ls_cwd_content
+-rw-r--r-- 1 root root   32 Apr  2 14:34 README.md
